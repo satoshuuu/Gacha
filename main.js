@@ -6,23 +6,23 @@ function rare1() {
   switch(num) {
     case 1:
       img.src="image/rare1-1.png";
-      p.innerHTML = "レア度１";
+      p.innerHTML = "レア度：⭐️";
       break;
     case 2:
       img.src = "image/rare1-2.png";
-      p.innerHTML = "レア度１";
+      p.innerHTML = "レア度：⭐️";
       break;
     case 3:
       img.src = "image/rare1-3.png";
-      p.innerHTML = "レア度１";
+      p.innerHTML = "レア度：⭐";
       break;
     case 4:
       img.src = "image/rare1-4.png";
-      p.innerHTML = "レア度１";
+      p.innerHTML = "レア度：⭐️";
       break;
     case 5:
       img.src = "image/rare1-5.png";
-      p.innerHTML = "レア度１";
+      p.innerHTML = "レア度：⭐️";
       break;
   }
 }
@@ -32,19 +32,19 @@ function rare2() {
   switch (num) {
     case 1:
       img.src = "image/rare2-1.png";
-      p.innerHTML = "レア度2";
+      p.innerHTML = "レア度：⭐️⭐️";
       break;
     case 2:
       img.src = "image/rare2-2.png";
-      p.innerHTML = "レア度2";
+      p.innerHTML = "レア度：⭐️⭐️";
       break;
     case 3:
       img.src = "image/rare2-3.png";
-      p.innerHTML = "レア度2";
+      p.innerHTML = "レア度：⭐️⭐️";
       break;
     case 4:
       img.src = "image/rare2-4.png";
-      p.innerHTML = "レア度2";
+      p.innerHTML = "レア度：⭐️⭐️";
       break;
   }
 }
@@ -54,15 +54,15 @@ function rare3() {
   switch (num) {
     case 1:
       img.src = "image/rare3-1.png";
-      p.innerHTML = "レア度3";
+      p.innerHTML = "レア度：⭐️⭐️⭐️";
       break;
     case 2:
       img.src = "image/rare3-2.png";
-      p.innerHTML = "レア度3";
+      p.innerHTML = "レア度：⭐️⭐️⭐️";
       break;
     case 3:
       img.src = "image/rare3-3.png";
-      p.innerHTML = "レア度3";
+      p.innerHTML = "レア度：⭐️⭐️⭐️";
       break;
   }
 }
@@ -72,18 +72,18 @@ function rare4() {
   switch (num) {
     case 1:
       img.src = "image/rare4-1.png";
-      p.innerHTML = "レア度4";
+      p.innerHTML = "レア度：⭐️⭐️⭐️⭐️";
       break;
     case 2:
       img.src = "image/rare4-2.png";
-      p.innerHTML = "レア度4";
+      p.innerHTML = "レア度：⭐️⭐️⭐️⭐️";
       break;
   }
 }
 
 function rare5() {
   img.src = "image/rare5.png";
-  p.innerHTML = "レア度5";
+  p.innerHTML = "レア度：⭐️⭐️⭐️⭐️⭐️";
 }
 
 function gacha(a) {
